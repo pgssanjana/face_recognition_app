@@ -1,16 +1,15 @@
 # flutter_application
 
-A new Flutter project.
+Face Recognition project.
 
-## Getting Started
+## Purpose of the app : Identity check for employment.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Let us say ,we want to consider a random person to be our watchman or driver. We can not normally get a background check of that person immediately or can we go refer to whether he has any criminal records or not. So ,my app helps the user to check whether the person we want to recruit has a criminal record or not. If he doesn't have any crime history, we can consider him to be a safe person to recruit or else it shows the person is a criminal.This app can be used for recruiting a Security guard, a driver, or any person into public/private services employment.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can download the apk of my app through this link::
+https://drive.google.com/file/d/1HdOHDnmJ9mIikyhU4Vb0y1mWLSftdu4X/view?usp=sharing
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have used Microsoft Azure’s Face API for face recognition in my app. The documentation that I have referred to is: https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f3039523c
+
+
