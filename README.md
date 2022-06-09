@@ -12,4 +12,5 @@ https://drive.google.com/file/d/1HdOHDnmJ9mIikyhU4Vb0y1mWLSftdu4X/view?usp=shari
 
 I have used Microsoft Azure’s Face API for face recognition in my app. The documentation that I have referred to is: https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f3039523c
 
-
+Configurations of the emulator:
+pixel 4a 6GB RAM ,128GB ROM,Android-12.
