@@ -2,7 +2,7 @@
 
 Face Recognition project.
 
-## Purpose of the app : Identity check for employment.
+## Purpose of the app : Background check for employment.
 
 
 Let us say ,we want to consider a random person to be our watchman or driver. We can not normally get a background check of that person immediately or can we go refer to whether he has any criminal records or not. So ,my app helps the user to check whether the person we want to recruit has a criminal record or not. If he doesn't have any crime history, we can consider him to be a safe person to recruit or else it shows the person is a criminal.This app can be used for recruiting a Security guard, a driver, or any person into public/private services employment.
